@@ -32,4 +32,4 @@
 
 101-clean_emacs --> deletes all files in the current working directory that end with the character ~
 
-
+102-tree --> Create a script that creates the directoriesdirectories welcome/, welcome/to/ and welcome/to/school in the current directory
