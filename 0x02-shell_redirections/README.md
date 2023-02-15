@@ -34,3 +34,6 @@
 11-directories --> ounts the number of directories and sub-directories in the current directory {The current and parent directories should not be taken into account -- Hidden directories should be counted}
 
 
+11-directories --> counts the number of directories and sub-directories in the current directory {The current and parent directories should not be taken into account -- Hidden directories should be counted}
+
+
