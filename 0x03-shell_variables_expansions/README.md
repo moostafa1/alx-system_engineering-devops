@@ -16,6 +16,10 @@
 5-local_variables --> ists all local variables and environment variables, and functions
 
 
-7-create_global_variable --> creates a new local variable {Name: BEST -- Value: School}
+6-create_local_variable --> creates a new local variable {Name: BEST -- Value: School}
+
+
+7-create_global_variable --> creates a new global variable {Name: BEST -- Value: School}
+
 
 
