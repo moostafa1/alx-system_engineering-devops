@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # displays lines containing the bash of PID
 
-ps -faux | pgrep "bash"
+$"ps" "faux" | grep "bash"
