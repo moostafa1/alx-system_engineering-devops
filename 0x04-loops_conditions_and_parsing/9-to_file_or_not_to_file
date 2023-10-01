@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # check file existance
 
-FILEMANE="school"
+FILENAME="school"
 if [ -f "$FILENAME" ];
 then
 	echo "school file exists"
