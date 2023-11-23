@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# use for loop to display file names
+# ls -l | rev | cut -d ' ' -f1 | rev |tail -n+2
+
+for i in *;
+do
+	echo "$i" | cut -d '-' -f2;
+done
