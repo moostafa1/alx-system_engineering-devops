@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+    Function to query the Reddit API and returns the titles of the first 10 host posts listed for a given subreddit.
+"""
 import requests
 
 def number_of_subscribers(subreddit):
