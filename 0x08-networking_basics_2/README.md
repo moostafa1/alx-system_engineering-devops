@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Networking basics #1
 ![alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png)
 
@@ -13,3 +14,7 @@
 - What is 0.0.0.0
 - What is /etc/hosts
 - How to display your machine’s active network interfaces
+=======
+Change your home IP
+Show attached IPs
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regular expression
 In this project, I built a regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
@@ -25,3 +26,6 @@ Read about regexp:
 - [Rubular is your best friend](https://rubular.com/)
 - [Use a regular expression against a problem: now you have 2 problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 - [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+=======
+re in bash
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f

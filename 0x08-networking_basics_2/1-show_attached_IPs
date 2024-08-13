@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 # displays all active IPv4 IPs on the machine it’s executed on
+<<<<<<< HEAD
 ifconfig | awk -F "[: ]+" '/inet addr:/ { print $4 }'
+=======
+hostname -I | cut -d ' ' -f1
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f

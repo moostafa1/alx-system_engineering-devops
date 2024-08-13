@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configuration management
 ![alt](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/Kskg37qnPTwy2USC5b8721io/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
  Configuration management can drastically improve the integrity of servers over time by providing a framework for automating processes and keeping track of changes made to the system environment.
@@ -11,3 +12,6 @@
 - [Puppet’s Declarative Language: Modeling Instead of Scripting](https://puppet.com/blog/puppets-declarative-language-modeling-instead-of-scripting/)
 - [Puppet lint](http://puppet-lint.com/)
 - [Puppet emacs mode](https://github.com/voxpupuli/puppet-mode)
+=======
+Configuration Management - Getting Familiar with Puppet
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f

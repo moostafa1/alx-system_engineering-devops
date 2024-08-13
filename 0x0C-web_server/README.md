@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x0C. Web server
 
 ## Description
@@ -12,3 +13,6 @@ Files | Description
 [2-setup_a_domain_name](./2-setup_a_domain_name) | Domain name gotten from .TECH Domains
 [3-redirection](./3-redirection) | Bash script that configures an Nginx server so that /redirect_me is redirecting to another page
 [4-not_found_page_404](./4-not_found_page_404) | Bash script that configures a Nginx server to have a custom 404 page that contains the string 'Ceci n'est pas une page'
+=======
+Web Servers setup & configure
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f

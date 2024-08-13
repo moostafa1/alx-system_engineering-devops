@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SSH
 ## Resources
 - [What is a (physical) server - text](https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement)
@@ -23,3 +24,6 @@ Write a Bash script that creates an RSA key pair.
 Your Ubuntu Vagrant machine has an SSH configuration file for the local SSH client, let’s configure it to our needs so that you can connect to a server without typing a password. Share your SSH client configuration in your answer file.
 ### Let me in!
 Now that you have successfully connected to your server, we would also like to join the party.
+=======
+Coonecting to Linux Server using SSH key
+>>>>>>> 9209bedf33087ed8b366fa0c874c22360a6c675f
